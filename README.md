@@ -7,5 +7,6 @@ This project will analyze data including:
 * Daily screen time (total and categorized as social media, productivity, entertainment)
 * Step count
 * Productivity level(by using time spent on productivity tools such as note-taking apps, ChatGPT)
+
 By examining these elements, my goal is to understand the relationship between my physical and mental habits. The results will guide me to renew my daily routine which will improve my lifestyle for more efficiency and balance.
   
