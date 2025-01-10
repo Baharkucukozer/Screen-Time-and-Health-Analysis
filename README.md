@@ -10,7 +10,9 @@ This project will analyze data including:
 
 By examining these elements, my goal is to understand the relationship between my physical and mental habits. The results will guide me to renew my daily routine which will improve my lifestyle for more efficiency and balance.
   
-Presentation: [Relationship between Step Count and Screen Time.pptx](https://github.com/user-attachments/files/18382283/Relationship.between.Step.Count.and.Screen.Time.pptx)
+Presentation: https://docs.google.com/presentation/d/184UIqlP8LxrO46xAjpDuLgN36XAYBiq8nGjX1zvnXO0/edit?usp=sharing
+
+
 My data: [DSA_updated.xlsx](https://github.com/user-attachments/files/18382378/DSA_updated.xlsx)
 [daily_step_count.xlsx](https://github.com/user-attachments/files/18382379/daily_step_count.xlsx)
 [DSA.xlsx](https://github.com/user-attachments/files/18382380/DSA.xlsx)
