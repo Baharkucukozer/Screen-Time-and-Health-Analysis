@@ -10,3 +10,4 @@ This project will analyze data including:
 
 By examining these elements, my goal is to understand the relationship between my physical and mental habits. The results will guide me to renew my daily routine which will improve my lifestyle for more efficiency and balance.
   
+Presentation: [Relationship between Step Count and Screen Time.pptx](https://github.com/user-attachments/files/18382283/Relationship.between.Step.Count.and.Screen.Time.pptx)
